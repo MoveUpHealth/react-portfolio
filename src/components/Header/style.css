@@ -1,0 +1,30 @@
+.bg-light {
+    background: rgb(152, 231, 231) !important;
+}
+.name {
+    font-size: 32px !important;
+    color: rgb(36, 36, 56);
+    font-family: 'philosopher', sans-serif;
+}
+
+.active {
+    color: black !important;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.nav-img {
+    margin: -4% -3% -5% 0 !important;
+}
+
+a.nav-link {
+    color: black !important;
+    background: white;
+    padding: 8px 20px !important;
+    width: 180px !important;
+    font-family: 'philosopher', sans-serif;
+}
+
+a.nav-link:hover {
+    background: #E1D9CE !important;
+}
