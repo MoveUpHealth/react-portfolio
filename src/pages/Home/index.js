@@ -4,7 +4,7 @@ import "./style.css"
 
 function Home() {
     return (
-        <div className="wrapper" id="aboutme">
+      <main className="wrapper" id="aboutme">
 
         <h2>Jessica Tax</h2>
         <hr className="line" />
@@ -20,10 +20,10 @@ function Home() {
                 <img id="profile" src={profile} className="card-img" alt="profile" />
               </div>
             
-            <div className="col-md-9 main-card" style={{clear: "both;"}}>
-              <div className="card-body" style={{paddingBottom: "10px !important;"}}>
-                <div className="jumbotron main-card" style={{ paddingBottom: "0;"}}>
-                <h1 classNameName="display-4" style={{marginTop: "-50px;"}}>Hello, world!</h1>
+            <div className="col-md-9 main-card" style={{clear: "both"}}>
+              <div className="card-body" style={{paddingBottom: "10px !important"}}>
+                <div className="jumbotron main-card" style={{ paddingBottom: "0"}}>
+                <h1 className="display-4" style={{marginTop: "-50px"}}>Hello, world!</h1>
                   <p className="lead" >Welcome, and thank you for taking the time to look at my portfolio.</p>
                   <hr className="my-4" />
                   <p className="card-text">In the fall of 2016 after a frustrating experience with GoDaddy's website builder, I decided to enroll in a beginning website development course at
@@ -43,7 +43,7 @@ function Home() {
         </div>
         </div>
         <hr className="line" />
-      </div>
+      </main>
     )
 }
 

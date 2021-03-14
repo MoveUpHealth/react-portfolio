@@ -1,0 +1,32 @@
+#contact {
+    background-color: #E1D9CE;
+    min-height: 1000px;
+}
+
+.contact-container {
+    min-width: 95%;
+}
+
+.contact-img {
+    margin-bottom: 30px;
+}
+
+#emailHelp {
+    color: #ffffff !important;
+}
+
+form {
+    padding-bottom: 30px !important;
+}
+
+.submit {
+    background: rgb(152, 231, 231); 
+    border-color:rgb(152, 231, 231); 
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 990px){
+    #contact {
+        min-height: 400px;
+    }
+}

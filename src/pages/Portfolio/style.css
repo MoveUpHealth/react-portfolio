@@ -1,0 +1,21 @@
+#portfolio {
+    background-image: url(../../images/code.JPG);
+    min-height: 3320px;
+}
+
+.card-img-top {
+    object-fit: cover;
+    max-height: 420px;
+}
+
+#angry-cat {
+    display: none;
+}
+
+
+@media only screen and (min-width: 990px){
+    #portfolio {
+        min-height: 2050px;
+    }
+    
+}

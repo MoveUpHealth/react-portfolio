@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "title": "bffl",
+      "subtitle": "The Friend Finding App",
+      "image": "https://moveuphealth.github.io/myportfolio/assets/images/bffl.png",
+      "githubLink": "Check the Code",
+      "githubUrl": "https://github.com/vpickard707/FriendApp",
+      "deployedUrl": "",
+      "deployedLink": "App Coming Soon!",
+      "alt": "bffl logo",
+      "description": "Find people in your area who share your interests and are looking to connect!"
+    },
+    {
+        "id": 2,
+        "title": "Companions",
+        "subtitle": "Social Media For Pet Lovers",
+        "image": "https://moveuphealth.github.io/myportfolio/assets/images/companionsprofile1.png",
+        "githubLink": "Check the Code",
+        "githubUrl": "https://github.com/MoveUpHealth/Companions",
+        "deployedUrl": "https://salty-meadow-82402.herokuapp.com/",
+        "deployedLink": "Companions",
+        "alt": "Companions Profile Page",
+        "description": "Now you can showcase that special member of the family on a platform made for them. Share pictures and add captions that truly capture what your pet is thinking. Browse your friends' posts, like, and comment."
+    },
+    {
+        "id": 3,
+        "title": "flavor",
+        "subtitle": "Discover and Save Your Favorite Recipes and Restaurants",
+        "image": "https://moveuphealth.github.io/myportfolio/assets/images/flavor.jpg",
+        "githubLink": "Behind the Scenes",
+        "githubUrl": "https://github.com/MoveUpHealth/the-flavor-app",
+        "deployedUrl": "https://moveuphealth.github.io/the-flavor-app/",
+        "deployedLink": "Welcome to Flavor",
+        "alt": "Elegant Pasta Dish",
+        "description": "Now you can showcase that special member of the family on a platform made for them. Share pictures and add captions that truly capture what your pet is thinking. Browse your friends' posts, like, and comment."
+    },
+    {
+        "id": 4,
+        "title": "Move Up Health and Fitness",
+        "subtitle": "Front-end Website Development Example",
+        "image": "https://moveuphealth.github.io/myportfolio/assets/images/website_original.JPG",
+        "githubLink": "",
+        "githubUrl": "",
+        "deployedUrl": "https://www.moveuphealth.com/",
+        "deployedLink": "Move Up!",
+        "alt": "Triupmhant Man",
+        "description": "This is the website that I designed and use for my fitness business. We offer personal training and specialty group fitness for those battling chronic health conditions."
+    },
+    {
+        "id": 5,
+        "title": "Regex Tutorial",
+        "subtitle": "Matching a URL",
+        "image": "https://moveuphealth.github.io/myportfolio/assets/images/regex.png",
+        "githubLink": "The Process",
+        "githubUrl": "https://gist.github.com/MoveUpHealth/144f1ecf2908c87825dbf4c863197d67/revisions",
+        "deployedUrl": "https://gist.github.com/MoveUpHealth/144f1ecf2908c87825dbf4c863197d67",
+        "deployedLink": "Regex Tutorial",
+        "alt": "Table of Contents",
+        "description": "Learn about and how to apply the various components of a regex used to validate that a string is a url."
+    },
+    {
+        "id": 6,
+        "title": "Fitness Tracker",
+        "subtitle": "Track and Reach Your Fitness Goals!",
+        "image": "https://moveuphealth.github.io/myportfolio/assets/images/tracker.png",
+        "githubLink": "The Code",
+        "githubUrl": "https://github.com/MoveUpHealth/fitness-tracker",
+        "deployedUrl": "https://stark-bayou-49742.herokuapp.com/",
+        "deployedLink": "Get Tracking!",
+        "alt": "Workout Stats",
+        "description": "Add exercises to your daily workout to track your activity and progress over time."
+    }
+
+]
+    
