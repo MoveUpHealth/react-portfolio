@@ -1,8 +1,8 @@
 import React from "react";
-import aboutme from "./aboutme.png"
-import contact from "./contact.png"
-import logo from "./logo.png"
-import portfolioImage from "./portfolio.png"
+import aboutme from "../../images/aboutme.png"
+import contact from "../../images/contact.png"
+import logo from "../../images/logo.png"
+import portfolioImage from "../../images/portfolio.png"
 import "./style.css"
 
 export default function Navbar () {

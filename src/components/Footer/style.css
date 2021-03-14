@@ -1,0 +1,18 @@
+a.nav-link.footer {
+    display: inline;
+    margin: 0 10px;
+    background-color: inherit !important;
+}
+
+.footer-links {
+    padding-top: 5px;
+}
+
+.footer-contact, .footer-copyright {
+    font-family: 'philosopher', sans-serif;
+}
+
+.email {
+    color: #000000 !important;
+}
+
